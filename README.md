@@ -4,7 +4,7 @@
 - 🌱 Looking for somewhere to learn and grow as a developer
 📫 How to reach me: 
 - cathrine.juvsett@gmail.com
-- (www.linkedin.com/in/cathrine-sleire-juvsett-a2816291 "My LinkedIn profile")
+- [LinkedIn Link](www.linkedin.com/in/cathrine-sleire-juvsett-a2816291 "My LinkedIn profile")
 
 Oh wow - so happy you are here! Summer 2023 I finished 2 year study at Noroff - Font End Developer.
 Now, I am super eager to find somewhere to learn and grow as a developer.
@@ -24,7 +24,8 @@ Do not hesitate to contact me - maybe we will meet up for a coffee? ☕
 *project lead on our side of things as a customer - a uniqe experience I will bring with me!
 
 ### Languages and tools: 
-Languages and tools I have been using during my studies, more confident in some then others:
+Languages and tools I have been using during my studies, more confident in some than others:
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,wordpress,vscode,xd,github&perline=3)](https://skillicons.dev)
 
 Github Stats:
