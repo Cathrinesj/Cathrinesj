@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there - I am Cathrine Juvsett 👋
 
-<!--
-**Cathrinesj/Cathrinesj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍🎓 Just graduatet from Noroff - Front End Developer
+🌱 Looking for somewhere to learn and grow as a developer
 
-Here are some ideas to get you started:
+📫 How to reach me: cathrine.juvsett@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Credit to: https://github.com/anuraghazra/github-readme-stats - for Github stats
+
+### Languages and tools: 
+
+
+![Cathrinesj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
