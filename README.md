@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: 
 - cathrine.juvsett@gmail.com, 
-- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev //www.linkedin.com/in/cathrine-sleire-juvsett-a2816291/)
+- [![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/cathrine-sleire-juvsett-a2816291)
 
 
 
