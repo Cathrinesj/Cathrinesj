@@ -2,9 +2,11 @@
 
 - 👩‍🎓 Just graduatet from Noroff - Front End Developer
 - 🌱 Looking for somewhere to learn and grow as a developer
+
+
 📫 How to reach me: 
 - cathrine.juvsett@gmail.com
-- [LinkedIn Link](www.linkedin.com/in/cathrine-sleire-juvsett-a2816291 "My LinkedIn profile")
+- [www.linkedin.com/in/cathrine-sleire-juvsett-a2816291 "My LinkedIn profile"]
 
 Oh wow - so happy you are here! Summer 2023 I finished 2 year study at Noroff - Font End Developer.
 Now, I am super eager to find somewhere to learn and grow as a developer.
