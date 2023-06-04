@@ -3,7 +3,9 @@
 - 👩‍🎓 Just graduatet from Noroff - Front End Developer
 - 🌱 Looking for somewhere to learn and grow as a developer
 
-- 📫 How to reach me: cathrine.juvsett@gmail.com, [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+- 📫 How to reach me: 
+- cathrine.juvsett@gmail.com, 
+- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev href="https://www.linkedin.com/in/cathrine-sleire-juvsett-a2816291/")
 
 
 
