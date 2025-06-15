@@ -1,6 +1,6 @@
 ## Hi there - I am Cathrine Juvsett 👋
 
-- 👩‍🎓 Just graduatet from Noroff - Front End Developer
+- 👩‍🎓 Graduatet from Noroff 2023 - Front End Developer
 - 🌱 Looking for somewhere to learn and grow as a developer
 
 
@@ -11,10 +11,10 @@
 Oh wow - so happy you are here! Summer 2023 I finished 2 year study at Noroff - Font End Developer.
 Now, I am super eager to find somewhere to learn and grow as a developer.
 
-I am a 34 year old woman living in the rainy westcoast of Norway (pretty sure u can guess where 😉).
+I am a 36 year old woman living in the rainy westcoast of Norway (pretty sure u can guess where 😉).
 Once upon a time i finished a bachelor degree in Business administration, and since then, I have been with the same company,
 though with many different responsibilities. Some years ago, I had project lead* on setting up new websites and webshop for our company,
-and at some point I released that this is what I want to do. 
+and at some point I realised that this is what I want to do. 
 
 And so I did. For the last three years I have done 1 year part time, one full, and the last year part time again - and now I am super happy to be done!
 No secrets it has been rough at times, but I am thoroughly exited to start my new career off!
